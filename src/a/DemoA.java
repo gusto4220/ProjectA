@@ -6,5 +6,9 @@ public class DemoA {
 		
 		System.out.println("Gustavo");
 	}
+	//Sprint 2 Automation
+	public static void add(int a, int b) {
+	System.out.println(a+b);
+	}
 
 }
